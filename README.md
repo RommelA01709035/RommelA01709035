@@ -11,7 +11,7 @@ I'm **Rommel Pacheco** 👨🏻‍💻, a Software Engineer from Querétaro, Mex
 
 - 🎓 **B.S. in Computer Science** at <strong>Tecnológico de Monterrey</strong> (2021 – 2026)
 - 🎮 Built a <strong>serious game to teach sustainable supply chain design</strong> for the University of Leeds and Tec de Monterrey — students improved their scores by <strong>10 points</strong> after playing it
-- ⚙️ At <strong>GE Vernova</strong>, I was architecture owner for internal tools that contributed to <strong>300,000 MXN in yearly savings</strong>
+- ⚙️ At <strong>GE Vernova</strong>, I was architecture owner for internal tools that contributed to <strong>thousands of  MXN in yearly savings</strong>
 - ✈️ At <strong>GE Aerospace</strong>, I optimized the product definition design process by <strong>60–90%</strong> with the NX-Open API
 - 🎤 Presented my research at the <strong>British Conference of Undergraduate Research 2026</strong>, <strong>Next Gen Scientist</strong> and <strong>IFE</strong>
 - 🔍 Open to <strong>Software Engineer</strong> opportunities (full-stack, internal tools, game development)
@@ -23,5 +23,5 @@ I'm **Rommel Pacheco** 👨🏻‍💻, a Software Engineer from Querétaro, Mex
 <img src="https://img.shields.io/badge/postgresql-%234169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white">   <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white">   <img src="https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white">   <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white">   <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?&style=for-the-badge&logo=amazonwebservices&logoColor=white">   <img src="https://img.shields.io/badge/cloudflare-%23F38020.svg?&style=for-the-badge&logo=cloudflare&logoColor=white">   <img src="https://img.shields.io/badge/nginx-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white">   <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white">
 
 ### Stats Overview: :cyclone:
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&count_private=true&hide=stars&theme=material-palenight" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&langs_count=6&layout=compact&theme=material-palenight&hide=html,css" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=RommelA01709035&show_icons=true&count_private=true&hide=stars&theme=material-palenight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RommelA01709035&langs_count=6&layout=compact&theme=material-palenight&hide=html,css" />

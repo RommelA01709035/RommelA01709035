@@ -5,7 +5,7 @@ I'm **Rommel Pacheco** 👨🏻‍💻, a Software Engineer from Querétaro, Mex
 [![Typing SVG](https://readme-typing-svg.demolab.com?vCenter=true&width=500&lines=Software+Engineer+%7C+Full-Stack+Developer;Serious+Games+for+Education;Architecture+Owner+in+Scrum+Teams)](https://git.io/typing-svg)
 
 ### How to reach me:
-<a href="mailto:rommelhernandezp@gmail.com"><img src="https://img.shields.io/badge/-rommelhernandezp%40gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.linkedin.com/in/TU_LINKEDIN/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:rommelhernandezp@gmail.com"><img src="https://img.shields.io/badge/-rommelhernandezp%40gmail.com-D14836?&style=for-the-badge&logo=gmail&logoColor=white"></a>  <a href="https://www.linkedin.com/in/rommel-pacheco-02913b248/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### Current Status Quo:
 
